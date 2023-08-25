@@ -3,7 +3,7 @@ using TestXml;
 using TestXml.Interfaces;
 using TestXml.Models;
 
-namespace XmlTest
+namespace XmlSerializerTests
 {
     public class XmlSerializerTest
     {

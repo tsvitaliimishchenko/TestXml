@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestXml\TestXml.csproj" />
+    <ProjectReference Include="..\TestXml\XmlSerializer.csproj" />
   </ItemGroup>
 
 </Project>
